@@ -1,4 +1,4 @@
-# Barbearia Alura
+# Barbearia Alura 💈
 
   A Barbearia Alura é um projeto criado durante cursos de HTML e CSS na plataforma Alura, com o objetivo de auxiliar no aprendizado de desenvolvimento WEB utilizando as linguagens HTML5 e CSS3, sendo uma página de uma barbearia com o objetivo de fazer agendamento para os serviços da barbearia, contendo informações sobre a empresa, localização, os produtos e serviços oferecidos e o cadastro de agendamento em si.
 
