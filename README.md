@@ -2,7 +2,14 @@
 
   A Barbearia Alura é um projeto criado durante cursos de HTML e CSS na plataforma Alura, com o objetivo de auxiliar no aprendizado de desenvolvimento WEB utilizando as linguagens HTML5 e CSS3, sendo uma página de uma barbearia com o objetivo de fazer agendamento para os serviços da barbearia, contendo informações sobre a empresa, localização, os produtos e serviços oferecidos e o cadastro de agendamento em si.
 
+## Home:
 ![print da página](https://github.com/GABRIEL-ASSYS/Barbearia-Alura/blob/main/imagens/print.png)
+![print da página](https://github.com/GABRIEL-ASSYS/Barbearia-Alura/blob/main/imagens/print%202.png)
+![print da página](https://github.com/GABRIEL-ASSYS/Barbearia-Alura/blob/main/imagens/print%203.png)
+![print da página](https://github.com/GABRIEL-ASSYS/Barbearia-Alura/blob/main/imagens/print%204.png)
+
+## Produtos:
+![print da página](https://github.com/GABRIEL-ASSYS/Barbearia-Alura/blob/main/imagens/print%205.png)
 
 ## 🚀 Começando
 
