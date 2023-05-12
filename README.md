@@ -5,9 +5,6 @@
 ## Home:
 ![print da página](https://github.com/GABRIEL-ASSYS/Barbearia-Alura/blob/main/imagens/print.png)
 
-## Produtos:
-![print da página](https://github.com/GABRIEL-ASSYS/Barbearia-Alura/blob/main/imagens/print%205.png)
-
 ## 🚀 Começando
 
 Essas intruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
