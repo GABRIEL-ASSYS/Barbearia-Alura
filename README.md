@@ -4,9 +4,6 @@
 
 ## Home:
 ![print da página](https://github.com/GABRIEL-ASSYS/Barbearia-Alura/blob/main/imagens/print.png)
-![print da página](https://github.com/GABRIEL-ASSYS/Barbearia-Alura/blob/main/imagens/print%202.png)
-![print da página](https://github.com/GABRIEL-ASSYS/Barbearia-Alura/blob/main/imagens/print%203.png)
-![print da página](https://github.com/GABRIEL-ASSYS/Barbearia-Alura/blob/main/imagens/print%204.png)
 
 ## Produtos:
 ![print da página](https://github.com/GABRIEL-ASSYS/Barbearia-Alura/blob/main/imagens/print%205.png)
